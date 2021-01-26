@@ -15,4 +15,4 @@ URL							Method		Request Param 		Result
 {host}/api/v1/states		POST		country=IN			Retrieves all districts (states/provinces) of any country
 
 
-This can be tested using PORTMAN or similar tool, however i have integrated a swagger URL({host}/swagger-ui.html) for ease which can be accessed post starting the application.
+This can be tested using POSTMAN or similar tool, however i have integrated a swagger URL({host}/swagger-ui.html) for ease which can be accessed post starting the application.
