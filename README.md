@@ -1,14 +1,12 @@
 # sample-ariport-api
-An API developed using Spring Boot to find airport details
-
-Usage:
+#Usage:
 
 An REST API is developed using Spring Boot to 
 1) Find airport details based on iata code 
 2) Find countries and their ISO by field_name
 3) Find states by country code
 
-Endpoints
+#Endpoints
 
 URL							Method		Request Param 		Result
 {host}/api/v1/single		POST		iata=LON			Finds a single airport matching an airport IATA code
