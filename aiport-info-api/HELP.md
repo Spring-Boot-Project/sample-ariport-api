@@ -16,3 +16,5 @@ URL							Method		Request Param 		Result
 
 
 This can be tested using POSTMAN or similar tool, however i have integrated a swagger URL({host}/swagger-ui.html) for ease which can be accessed post starting the application.
+
+Note: Incase of change in  Apc auth and secret, it can be modifed in application.properties file.
